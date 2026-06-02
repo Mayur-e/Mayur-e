@@ -245,7 +245,7 @@ width="420"
 <td align="center">
 
 <img
-src="https://raw.githubusercontent.com/Mayur-e/Mayur-e/main/assets/codechef-card.png?v=2"
+src="https://github.com/Mayur-e/Mayur-e/blob/main/assets/codechef-card.png?raw=true"
 width="420"
 />
 
