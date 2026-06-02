@@ -228,3 +228,15 @@ width="420"
 </table>
 
 </div>
+
+---
+
+# 📊 Activity Monitor
+
+![](https://github-readme-stats.vercel.app/api?username=Mayur-e&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mayur-e&theme=dark)
+![](https://streak-stats.demolab.com/?user=Mayur-e&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-e&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-e&layout=compact&theme=dark)
