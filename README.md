@@ -9,6 +9,11 @@
        alt="Mayuresh Workspace Banner">
 </p>
 
+<h1 align="center">Hi, I'm Mayuresh Mandalik 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Engineering+Student;Building+Intelligent+Systems;AI+%26+ML+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 <br>
 
 <!-- ========================================= -->
@@ -27,11 +32,11 @@ Computer Engineering student passionate about building software, exploring artif
 ### 🧠 Interests
 
 <p>
-  <img src="https://img.shields.io/badge/Software_Engineering-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System_Design-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend_Development-0D1117?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Software_Engineering-0366D6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-6E40C9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-F97316?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-2EA043?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_Development-D63384?style=for-the-badge&logoColor=white" />
 </p>
 
 <br>
@@ -119,14 +124,6 @@ alt="Mayuresh Avatar"
 <td>Modern Technologies</td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### ⌛ Scroll Down To Explore My Workspace
-
-</div>
 
 ---
 
@@ -248,7 +245,7 @@ width="420"
 <td align="center">
 
 <img
-src="https://raw.githubusercontent.com/Mayur-e/Mayur-e/main/assets/codechef-card.png"
+src="https://raw.githubusercontent.com/Mayur-e/Mayur-e/main/assets/codechef-card.png?v=2"
 width="420"
 />
 
@@ -269,11 +266,14 @@ width="420"
 
 # 📊 Activity Monitor
 
-![](https://github-readme-stats.vercel.app/api?username=Mayur-e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A97B50&icon_color=A97B50&text_color=E6EDF3)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=Mayur-e&theme=tokyonight&hide_border=true&background=0D1117&ring=A97B50&fire=A97B50&currStreakLabel=A97B50)
+![](https://github-readme-stats.vercel.app/api?username=Mayur-e&show_icons=true&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-e&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A97B50&text_color=E6EDF3)
+![](https://streak-stats.demolab.com/?user=Mayur-e&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-e&layout=compact&theme=dark)
+</div>
 
 ---
 
@@ -285,43 +285,39 @@ width="420"
 <tr>
 
 <td align="center" width="25%">
-
-📖
-<br>
-**Always Learning**
-<br>
-<sub>Constantly picking up new technologies and deepening existing ones</sub>
-
+<img src="https://placehold.co/400x50/1E3A5F/FFFFFF?text=Always+Learning&font=oswald" width="100%"/>
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png" width="60" height="60"/>
+<br><br>
+<p>Constantly picking up new<br>technologies and deepening<br>existing ones</p>
+<br><br>
 </td>
 
 <td align="center" width="25%">
-
-⚙️
-<br>
-**Systems Thinker**
-<br>
-<sub>Building things that solve real problems at scale</sub>
-
+<img src="https://placehold.co/400x50/1A472A/FFFFFF?text=Systems+Thinker&font=oswald" width="100%"/>
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png" width="60" height="60"/>
+<br><br>
+<p>Building things that solve<br>real problems at scale</p>
+<br><br>
 </td>
 
 <td align="center" width="25%">
-
-🧠
-<br>
-**AI Explorer**
-<br>
-<sub>Where Software Engineering meets Artificial Intelligence</sub>
-
+<img src="https://placehold.co/400x50/3B0764/FFFFFF?text=AI+Explorer&font=oswald" width="100%"/>
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9e0.png" width="60" height="60"/>
+<br><br>
+<p>Where Software Engineering<br>meets Artificial Intelligence</p>
+<br><br>
 </td>
 
 <td align="center" width="25%">
-
-🚀
-<br>
-**Growth Mindset**
-<br>
-<sub>One project, one bug, and one lesson at a time</sub>
-
+<img src="https://placehold.co/400x50/7A1F1F/FFFFFF?text=Growth+Mindset&font=oswald" width="100%"/>
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f680.png" width="60" height="60"/>
+<br><br>
+<p>One project, one bug,<br>and one lesson at a time</p>
+<br><br>
 </td>
 
 </tr>
@@ -329,7 +325,7 @@ width="420"
 
 <br>
 
-📚 **Currently Reading** — *Designing Data-Intensive Applications*
+📚 &nbsp; **Currently Reading** &nbsp;—&nbsp; *Designing Data-Intensive Applications*
 
 <br>
 
@@ -337,11 +333,11 @@ width="420"
 
 <br>
 
-**Thanks for visiting my workspace!**
+**Thanks for visiting! 👋**
 
 <br>
 
-<img src="https://visitcount.itsvg.in/api?id=Mayur-e&icon=5&color=12" />
+<img src="https://komarev.com/ghpvc/?username=Mayur-e&color=A97B50&style=flat-square&label=Profile+Views" />
 
 </div>
 
