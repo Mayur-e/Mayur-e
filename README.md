@@ -130,57 +130,93 @@ alt="Mayuresh Avatar"
 
 ---
 
-## 🧭 Engineering Domains
+# 🧭 Engineering Domains
 
 <table>
 <tr>
-<th align="left">Domain</th>
-<th align="left">Technologies & Concepts</th>
-</tr>
 
-<tr>
-<td><b>🏗️ Computer Science Foundations</b></td>
-<td>
+<td align="center" valign="top" width="16%">
 
-C ,  C++ ,  Data Structures ,  Algorithms ,  OOP ,  DBMS ,  System Design, OS, CN
+### 🏗️
+**Computer Science**
 
-</td>
-</tr>
-
-<tr>
-<td><b>🌐 Frontend Engineering</b></td>
-<td>
-
-HTML ,  CSS ,  JavaScript ,  React ,  Next.js ,  Tailwind CSS ,  Bootstrap ,  React Native
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-6E40C9?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-D63384?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-E85D04?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-2EA043?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OS-607D8B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CN-0288D1?style=flat-square&logoColor=white"/>
 
 </td>
-</tr>
 
-<tr>
-<td><b>🔧 Backend Systems</b></td>
-<td>
+<td align="center" valign="top" width="16%">
 
-Node.js ,  Express.js ,  FastAPI ,  REST APIs ,  Authentication ,  RBAC
+### 🌐
+**Frontend**
 
-</td>
-</tr>
-
-<tr>
-<td><b>🗄️ Data & Databases</b></td>
-<td>
-
-PostgreSQL ,  MongoDB ,  MySQL ,  Supabase ,  Database Design
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 </td>
-</tr>
 
-<tr>
-<td><b>🧠 Artificial Intelligence</b></td>
-<td>
+<td align="center" valign="top" width="16%">
 
-Python ,  NumPy ,  Pandas ,  Scikit-Learn
+### ⚙️
+**Backend**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Auth_&_RBAC-8B5CF6?style=flat-square&logo=auth0&logoColor=white"/>
 
 </td>
+
+<td align="center" valign="top" width="16%">
+
+### 🗄️
+**Databases**
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/DB_Design-E85D04?style=flat-square&logoColor=white"/>
+
+</td>
+
+<td align="center" valign="top" width="16%">
+
+### 🧠
+**AI & ML**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+</td>
+
+<td align="center" valign="top" width="16%">
+
+### 🎯
+**Exploring**
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-6E40C9?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-00BCD4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Systems-2EA043?style=flat-square&logoColor=white"/>
+
+</td>
+
 </tr>
 
 </table>
@@ -232,8 +268,81 @@ width="420"
 ---
 
 # 📊 Activity Monitor
-![](https://github-readme-stats.vercel.app/api?username=Mayur-e&show_icons=true&theme=dark)
 
-![](https://streak-stats.demolab.com/?user=Mayur-e&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Mayur-e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A97B50&icon_color=A97B50&text_color=E6EDF3)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-e&layout=compact&theme=dark)
+![](https://streak-stats.demolab.com/?user=Mayur-e&theme=tokyonight&hide_border=true&background=0D1117&ring=A97B50&fire=A97B50&currStreakLabel=A97B50)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-e&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A97B50&text_color=E6EDF3)
+
+---
+
+# ☕ Beyond the Code
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+📖
+<br>
+**Always Learning**
+<br>
+<sub>Constantly picking up new technologies and deepening existing ones</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+⚙️
+<br>
+**Systems Thinker**
+<br>
+<sub>Building things that solve real problems at scale</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🧠
+<br>
+**AI Explorer**
+<br>
+<sub>Where Software Engineering meets Artificial Intelligence</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🚀
+<br>
+**Growth Mindset**
+<br>
+<sub>One project, one bug, and one lesson at a time</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+📚 **Currently Reading** — *Designing Data-Intensive Applications*
+
+<br>
+
+> *"Complex systems become simple when you understand them deeply."*
+
+<br>
+
+**Thanks for visiting my workspace!**
+
+<br>
+
+<img src="https://visitcount.itsvg.in/api?id=Mayur-e&icon=5&color=12" />
+
+</div>
+
+---
